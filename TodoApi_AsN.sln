@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi_AsN", "TodoApi_AsN\TodoApi_AsN.csproj", "{AC9A827C-ED77-445D-8A4D-326AB0D4E6C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D447C1A-0CA6-4EC1-891C-9BB39DD2A9B9}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9A827C-ED77-445D-8A4D-326AB0D4E6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9A827C-ED77-445D-8A4D-326AB0D4E6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9A827C-ED77-445D-8A4D-326AB0D4E6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9A827C-ED77-445D-8A4D-326AB0D4E6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
