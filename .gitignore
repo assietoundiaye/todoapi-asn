@@ -1,0 +1,6 @@
+bin/
+obj/
+*.user
+.env
+appsettings.Production.json
+secrets.json
